@@ -1,8 +1,6 @@
 Cold and dry and very red.
 Make changes based on this version.
 
-one more change - here the change
-
-This change is for Github - this from github
+Merged line is better
 
 This is a change from Github
